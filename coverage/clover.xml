@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1640085869575" clover="3.2.0">
+  <project timestamp="1640085869575" name="All files">
+    <metrics statements="11" coveredstatements="11" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1" elements="12" coveredelements="12" complexity="0" loc="11" ncloc="11" packages="2" files="2" classes="2"/>
+    <package name="controllers">
+      <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="todo.controller.js" path="/Volumes/Macintosh HD - Data/Users/varunnadipudi/Documents/UnitTestingPractice/controllers/todo.controller.js">
+        <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="4" type="stmt"/>
+        <line num="5" count="4" type="stmt"/>
+        <line num="6" count="3" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="models">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="todo.model.js" path="/Volumes/Macintosh HD - Data/Users/varunnadipudi/Documents/UnitTestingPractice/models/todo.model.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
